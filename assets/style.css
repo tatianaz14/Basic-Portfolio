@@ -11,7 +11,7 @@ body {
 .navbar {
     background: #ffffff;
     font-family: Helvetica, sans-serif, "Times New Roman", Times, serif;
-    height: 60px;
+    height: 40px;
     margin: 0 auto;
 }
 
@@ -27,6 +27,30 @@ h1 {
     letter-spacing: 3px;
 }
 
+.navbar-contact h1 {
+    padding: 7.5px;
+    width: 210px;
+    background-color:Black;
+    text-align: center;
+    color: #ffffff;
+    font-size: 23px;
+    float: left;
+    margin: 0 0 0 245px;
+    letter-spacing: 3px;
+ 
+
+}
+
+.navbar-contact {
+    background: #ffffff;
+    font-family: Helvetica, sans-serif, "Times New Roman", Times, serif;
+    height: 40px;
+    margin: 0 auto;
+}
+.navbar-contact ul{
+    width:328px;
+    
+}
 ul {
     list-style-type: none;
     width: 300px;
